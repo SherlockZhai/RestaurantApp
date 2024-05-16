@@ -21,7 +21,7 @@ The app designed for restaurants reservation to book seats.
  
 # How to use
 1.Download Assignment3.zip files, run the demo.xcodeproj file.<br>
-2.login the restaurant reservation program. If you are not a user, please sign up to make an App user. If you input wrong, the App will show "Account or password error!"<br>
+2.Login the restaurant reservation program. If you are not a user, please sign up to make an App user. If you input wrong, the App will show "Account or password error!"<br>
 3.After login, you can see your user name and mobile phone number.Your can select available table for your reservation on Home tab.<br>
 4.You can cancel your reservation on Table reservation tab.<br>
 5.When you finish your meal, you can cancel your reservation to release your table. The manager also can confirm the meal finished in backend management system(PHP API on website).<br>
@@ -35,16 +35,15 @@ v0.0<br>
 2.No user management function. All user names are in code, change user must change code.<br>
 
 v1.0<br>   
-1.user login and sign up function<br>
-2.wrong user name or password error<br>
-3.develop backend API for management system via PHP
+1.User login and sign up function<br>
+2.Wrong user name or password error<br>
+3.Develop backend API for management system via PHP
 
 # Reference:
-Weather API on Lab.<br>
-Lecture and lab pdf files
-ThinkPHP
+IOS:Weather API lecture and lab pdf files<br>
+API:ThinkPHP
  
-# The assignment only me in group, no any other group members 
+# Only me in the assignment group, no any other members 
 Code by Zhaopeng Zhao in UTS
 
 # Github linkage:
