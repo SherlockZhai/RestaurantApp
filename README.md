@@ -4,7 +4,7 @@ The app designed for restaurants reservation to book seats.
 # Function
 1.Frontend IOS iPhone APP:Restaurant customers can sign up as user to book and cancel their reservations online, making it convenient for customers to reserve their tables in advance and cancel seats.<br>
 2.Backend API: Customer, table, order management are designed in a management system by PHP.<br>
-3.Backend Weblink: http://49.232.213.55 Username: admin password:123456
+3.Backend Weblink: http://49.232.213.55/public/login.html Username: admin password:123456
  
 # Xcode 14/MACOS 14/IOS simulation 17
  
@@ -25,7 +25,7 @@ The app designed for restaurants reservation to book seats.
 3.After login, you can see your user name and mobile phone number.Your can select available table for your reservation on Home tab.<br>
 4.You can cancel your reservation on Table reservation tab.<br>
 5.When you finish your meal, you can cancel your reservation to release your table. The manager also can confirm the meal finished in backend management system.<br>
-6.Backend management system on http://49.232.213.55.
+6.Backend management system on http://49.232.213.55/public/login.html
 
  
  
