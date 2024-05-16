@@ -10,13 +10,13 @@ The app designed for restaurants reservation to book seats.
  
  
 # Resource Tree
-    ├── ReadMe.md           // App description 
+    ├── ReadMe.md           // IOS App description 
     
     ├── demo.xcodeproj      // Restaurant reservation App project
 
-    └── demo                // All code of the App
+    ├── demo                // All IOS code of the App
 
-        
+    └── DZAPP.ZIP           // Backend management--PHP program API 
 
  
 # How to use
@@ -24,7 +24,7 @@ The app designed for restaurants reservation to book seats.
 2.login the restaurant reservation program. If you are not a user, please sign up to make an App user. If you input wrong, the App will show "Account or password error!"<br>
 3.After login, you can see your user name and mobile phone number.Your can select available table for your reservation on Home tab.<br>
 4.You can cancel your reservation on Table reservation tab.<br>
-5.When you finish your meal, you can cancel your reservation to release your table. The manager also can confirm the meal finished in backend management system.<br>
+5.When you finish your meal, you can cancel your reservation to release your table. The manager also can confirm the meal finished in backend management system(PHP API on website).<br>
 6.Backend management system on http://49.232.213.55/public/login.html
 
  
@@ -42,6 +42,7 @@ v1.0<br>
 # Reference:
 Weather API on Lab.<br>
 Lecture and lab pdf files
+ThinkPHP
  
 # The assignment only me in group, no any other group members 
 Code by Zhaopeng Zhao in UTS
